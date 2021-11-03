@@ -240,6 +240,7 @@ This is an alphabetical list of companies and apps that provide solutions for in
 <li><a href="https://itunes.apple.com/us/app/law-dictionary-guide/id382017848?mt=8">Law Dictionary/Guide</a> - dictionary app about legal jargon</li>
 <li><a href="https://itunes.apple.com/us/app/scotusblog/id723205705?mt=8">SCOTUSblog</a> - app which keeps the user up-to-date with the latest Supreme Court news</li>
 <li><a href="http://www.legalzoom.com">LegalZoom</a> - provides accessible legal help to average Americans</li>
+<li><a href="https://www.turnsignl.com/">TurnSignl</a> - an app that provides drivers real-time teleconferencing with attorneys streamed to the cloud during traffic stops and following car accidents to protect driver's civil rights, de-escalate roadside interactions, and ensure everyone gets home safe</li>
 <li><a href="http://www.legalswipe.com">Legalswipe</a> - an app that informs people of their rights during interactions with police</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.agilelaw.deposition&hl=en">AgileLaw</a>- app that lets lawyers work paper free by uploading documents and PDFs needed for deposition</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.rosway.genesis&hl=en">CaseSync</a> - cloud-based legal management that allows law firms to save and access their data in the cloud</li>
